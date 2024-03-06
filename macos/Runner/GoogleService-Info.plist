@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyD4CctavbW_BaZIpLZyNubMXYkW-On_FW8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>459439556718</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.travelApp.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>travel-app-65ced</string>
+	<key>STORAGE_BUCKET</key>
+	<string>travel-app-65ced.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:459439556718:ios:2eccda53dfb92bdeabbe7f</string>
+</dict>
+</plist>
